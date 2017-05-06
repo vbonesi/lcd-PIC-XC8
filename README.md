@@ -1,4 +1,4 @@
-# lcd-PIC-XC8
+# lcd-PIC-XC8-4bits
 
 /* Victor Bonesi
  * 12/01/2016
