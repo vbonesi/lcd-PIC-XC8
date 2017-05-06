@@ -81,6 +81,6 @@ void Tempo_ms(unsigned int g)
     unsigned int h=0;
     for(h=0;h<g;h++)
     {
-      __delay_ms(1);  
+        __delay_ms(1);  
     }
 }
